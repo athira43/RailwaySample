@@ -1,5 +1,3 @@
-import pickle
-import sys
 import random
 
 
